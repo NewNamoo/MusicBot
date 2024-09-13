@@ -19,7 +19,7 @@ description: "Example config file for JMusicBot"
 // If you don't know how to get a bot token, please see the guide here:
 // https://github.com/jagrosh/MusicBot/wiki/Getting-a-Bot-Token
 
-token = BOT_TOKEN_HERE
+token = a45e581bfbc2ddba65a47473548c328e8786c0949330b9bc6f09bc75415023d4
 
 
 // This sets the owner of the bot
